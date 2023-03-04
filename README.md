@@ -8,5 +8,5 @@ Obrigado por olhar o meu desafio Frontend-Mentor.
 
 **Neste desafio, utilizei HTML, JAVACRIPT e CSS para criar uma pagina responsiva com accordion list.**
 
-Confira o resultado deste desafio ![aqui](https://otaviosouza21.github.io/FAQ-responsivo/);
+Confira o resultado deste desafio [aqui](https://otaviosouza21.github.io/FAQ-responsivo/);
 
